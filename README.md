@@ -28,7 +28,8 @@ I'm a results-driven Data Scientist with a PhD in Computational Condensed Matter
 
 ### Data Science Fellow, Fellowship.AI (Remote)  
 **Jan 2024 - Apr 2024**  
-- Created an AI framework to automate hair color touch-ups in fashion images using Diffusers/PyTorch, reducing manual editing time by 60%.  
+- Created an AI framework to automate hair color touch-ups in fashion images using Diffusers/PyTorch, significantly
+reducing manual editing time by more than 50%.  
 - Collaborated within a global Agile team using daily scrums and weekly demos.  
 
 ### Postdoctoral Research Fellow, University of Oklahoma  
